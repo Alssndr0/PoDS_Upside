@@ -1,5 +1,3 @@
 # PoDS_Upside
 
-This is the coursework done for Principles of Data Science
-
-Course grade: 89/100
+Principles of Data Science coursework, grade: 89/100.
